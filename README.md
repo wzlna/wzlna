@@ -33,10 +33,6 @@
 
 ## GitHub 数据看板
 
-<div align="center">
-  <img height="240" src="https://github-readme-activity-graph.vercel.app/graph?username=WZLNa&theme=github-compact&hide_border=true&area=true" />
-</div>
-
 <div align="center"> 
 <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=WZLNa" /> 
 <img height="200" src="https://github-stats-extended.vercel.app/api/top-langs?username=wzlna&hide_title=true&langs_count=4" />
@@ -45,7 +41,7 @@
 ---
 
 ## 浏览我的个人主页➡️
-<a href=https://www.wzln.top>👋点此进入</a>
+<a href=https://www.wzln.top>👋点此进入个人博客</a>  <a href=https://linux.do/u/wzln>👋点此进入LinuxDO资料卡</a>
 
 ---
 
