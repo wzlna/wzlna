@@ -36,8 +36,12 @@
 ## GitHub 数据看板
 
 <div align="center"> 
-<img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=WZLNa" /> 
-<img height="200" src="https://github-stats-extended.vercel.app/api/top-langs?username=wzlna&hide_title=true&langs_count=4" />
+  <a href="https://ghfind.com/u/wzlna?ref=badge">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/wzlna?theme=dark&lang=zh" />
+    <img src="https://ghfind.com/api/card/mini/wzlna?theme=light&lang=zh" alt="GitHub Roast 评分卡" width="440" />
+  </picture>
+</a><img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=WZLNa" /> 
 </div>
 
 ---
